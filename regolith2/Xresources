@@ -1,0 +1,7 @@
+regolith.wallpaper.file: /home/marko/Pictures/Comet.jpg
+regolith.lockscreen.wallpaper.file: /home/marko/Pictures/Comet.jpg
+regolith.look.path: /usr/share/regolith-look/nord
+i3-wm.gaps.inner.size: 8
+gnome.terminal.use-transparent-background: false
+i3-wm.bar.mode: hide
+
